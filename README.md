@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @st-dav
 - 👀 I’m interested in bouldering, docker, automation.
-- 🌱 I’m currently learning.
+- 🌱 I’m always learning, just like everyone else.
 - 💞️ I’m looking to collaborate.
 
 <!---
